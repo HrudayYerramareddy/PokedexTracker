@@ -1,0 +1,153 @@
+\body {
+    margin: 0;
+    font-family: system-ui, Arial;
+    background: #fff;
+    color: #111;
+  }
+  
+  /* Top bar */
+  .topbar {
+    padding: 16px;
+    border-bottom: 1px solid #ddd;
+    background: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  
+  h1 {
+    margin: 0 0 12px 0;
+    font-size: 48px;
+  }
+  
+  .container {
+    padding: 16px;
+  }
+  
+  /* Tabs */
+  .tabs {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin: 8px 0;
+    align-items: center;
+  }
+  
+  .tabs.sub {
+    margin-top: 6px;
+  }
+  
+  .tab,
+  .pill {
+    padding: 8px 16px;
+    border-radius: 16px;
+    border: 1px solid #bbb;
+    background: #fff;
+    font-weight: 800;
+    cursor: pointer;
+  }
+  
+  .tab.active,
+  .pill.active {
+    border-color: #f2c94c;
+  }
+  
+  /* Game panel (INSIDE each game) */
+  .panel {
+    border: 1px solid #ddd;
+    border-radius: 16px;
+    padding: 14px;
+    background: #fff;
+    margin-bottom: 16px;
+  }
+  
+  .panelRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  
+  .label {
+    font-size: 12px;
+    font-weight: 900;
+    opacity: 0.65;
+    margin-bottom: 4px;
+  }
+  
+  /* Progress bar */
+  .progressWrap {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 10px;
+  }
+  
+  .progressText {
+    font-size: 16px;
+    font-weight: 800;
+    min-width: 140px;
+  }
+  
+  .progressBar {
+    flex: 1;
+    height: 14px;
+    border-radius: 999px;
+    background: #eee;
+    overflow: hidden;
+    border: 1px solid #ddd;
+  }
+  
+  .progressFill {
+    height: 100%;
+    width: 0%;
+    background: #27c05a;
+  }
+  
+  /* Pokémon grid */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 14px;
+  }
+  
+  .card {
+    height: 220px;
+    border: 2px solid #ddd;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+  }
+  
+  .card:hover {
+    border-color: #bbb;
+  }
+  
+  .card.complete {
+    border-color: #27c05a;
+    background: #e9f8ef;
+  }
+  
+  .card img {
+    width: 96px;
+    height: 96px;
+    image-rendering: pixelated;
+  }
+  
+  .card .name {
+    margin-top: 10px;
+    font-weight: 900;
+  }
+  
+  .card .num {
+    font-size: 12px;
+    opacity: 0.6;
+    margin-top: 4px;
+  }
+  

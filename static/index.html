@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Pokédex Tracker</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Pokédex Tracker</h1>
+    <div id="gameTabs" class="tabs"></div>
+  </header>
+
+  <main class="container">
+    <section class="panel">
+      <div class="panelRow">
+        <div>
+          <div class="label">Dex</div>
+          <div id="sectionTabs" class="tabs sub"></div>
+        </div>
+
+        <div>
+          <div class="label">Mode</div>
+          <div class="tabs sub">
+            <button id="normalBtn" class="pill active">Normal</button>
+            <button id="shinyBtn" class="pill">Shiny</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="progress"></div>
+    </section>
+
+    <div id="grid" class="grid"></div>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

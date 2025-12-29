@@ -1,0 +1,1456 @@
+Chikorita
+#001
+Chikorita
+Grass
+Bayleef
+#002
+Bayleef
+Grass
+Meganium
+#003
+Meganium
+Grass
+Tepig
+#004
+Tepig
+Fire
+Pignite
+#005
+Pignite
+Fire · Fighting
+Emboar
+#006
+Emboar
+Fire · Fighting
+Totodile
+#007
+Totodile
+Water
+Croconaw
+#008
+Croconaw
+Water
+Feraligatr
+#009
+Feraligatr
+Water
+Fletchling
+#010
+Fletchling
+Normal · Flying
+Fletchinder
+#011
+Fletchinder
+Fire · Flying
+Talonflame
+#012
+Talonflame
+Fire · Flying
+Bunnelby
+#013
+Bunnelby
+Normal
+Diggersby
+#014
+Diggersby
+Normal · Ground
+Scatterbug
+#015
+Scatterbug
+Bug
+Spewpa
+#016
+Spewpa
+Bug
+Vivillon
+#017
+Vivillon
+Bug · Flying
+Weedle
+#018
+Weedle
+Bug · Poison
+Kakuna
+#019
+Kakuna
+Bug · Poison
+Beedrill
+#020
+Beedrill
+Bug · Poison
+Pidgey
+#021
+Pidgey
+Normal · Flying
+Pidgeotto
+#022
+Pidgeotto
+Normal · Flying
+Pidgeot
+#023
+Pidgeot
+Normal · Flying
+Mareep
+#024
+Mareep
+Electric
+Flaaffy
+#025
+Flaaffy
+Electric
+Ampharos
+#026
+Ampharos
+Electric
+Patrat
+#027
+Patrat
+Normal
+Watchog
+#028
+Watchog
+Normal
+Budew
+#029
+Budew
+Grass · Poison
+Roselia
+#030
+Roselia
+Grass · Poison
+Roserade
+#031
+Roserade
+Grass · Poison
+Magikarp
+#032
+Magikarp
+Water
+Gyarados
+#033
+Gyarados
+Water · Flying
+Binacle
+#034
+Binacle
+Rock · Water
+Barbaracle
+#035
+Barbaracle
+Rock · Water
+Staryu
+#036
+Staryu
+Water
+Starmie
+#037
+Starmie
+Water · Psychic
+Flabébé
+#038
+Flabébé
+Fairy
+Floette
+#039
+Floette
+Fairy
+Florges
+#040
+Florges
+Fairy
+Skiddo
+#041
+Skiddo
+Grass
+Gogoat
+#042
+Gogoat
+Grass
+Espurr
+#043
+Espurr
+Psychic
+Meowstic
+#044
+Meowstic
+Psychic
+Litleo
+#045
+Litleo
+Fire · Normal
+Pyroar
+#046
+Pyroar
+Fire · Normal
+Pancham
+#047
+Pancham
+Fighting
+Pangoro
+#048
+Pangoro
+Fighting · Dark
+Trubbish
+#049
+Trubbish
+Poison
+Garbodor
+#050
+Garbodor
+Poison
+Dedenne
+#051
+Dedenne
+Electric · Fairy
+Pichu
+#052
+Pichu
+Electric
+Pikachu
+#053
+Pikachu
+Electric
+Raichu
+#054
+Raichu
+Electric
+Cleffa
+#055
+Cleffa
+Fairy
+Clefairy
+#056
+Clefairy
+Fairy
+Clefable
+#057
+Clefable
+Fairy
+Spinarak
+#058
+Spinarak
+Bug · Poison
+Ariados
+#059
+Ariados
+Bug · Poison
+Ekans
+#060
+Ekans
+Poison
+Arbok
+#061
+Arbok
+Poison
+Abra
+#062
+Abra
+Psychic
+Kadabra
+#063
+Kadabra
+Psychic
+Alakazam
+#064
+Alakazam
+Psychic
+Gastly
+#065
+Gastly
+Ghost · Poison
+Haunter
+#066
+Haunter
+Ghost · Poison
+Gengar
+#067
+Gengar
+Ghost · Poison
+Venipede
+#068
+Venipede
+Bug · Poison
+Whirlipede
+#069
+Whirlipede
+Bug · Poison
+Scolipede
+#070
+Scolipede
+Bug · Poison
+Honedge
+#071
+Honedge
+Steel · Ghost
+Doublade
+#072
+Doublade
+Steel · Ghost
+Aegislash
+#073
+Aegislash
+Steel · Ghost
+Bellsprout
+#074
+Bellsprout
+Grass · Poison
+Weepinbell
+#075
+Weepinbell
+Grass · Poison
+Victreebel
+#076
+Victreebel
+Grass · Poison
+Pansage
+#077
+Pansage
+Grass
+Simisage
+#078
+Simisage
+Grass
+Pansear
+#079
+Pansear
+Fire
+Simisear
+#080
+Simisear
+Fire
+Panpour
+#081
+Panpour
+Water
+Simipour
+#082
+Simipour
+Water
+Meditite
+#083
+Meditite
+Fighting · Psychic
+Medicham
+#084
+Medicham
+Fighting · Psychic
+Electrike
+#085
+Electrike
+Electric
+Manectric
+#086
+Manectric
+Electric
+Ralts
+#087
+Ralts
+Psychic · Fairy
+Kirlia
+#088
+Kirlia
+Psychic · Fairy
+Gardevoir
+#089
+Gardevoir
+Psychic · Fairy
+Gallade
+#090
+Gallade
+Psychic · Fighting
+Houndour
+#091
+Houndour
+Dark · Fire
+Houndoom
+#092
+Houndoom
+Dark · Fire
+Swablu
+#093
+Swablu
+Normal · Flying
+Altaria
+#094
+Altaria
+Dragon · Flying
+Audino
+#095
+Audino
+Normal
+Spritzee
+#096
+Spritzee
+Fairy
+Aromatisse
+#097
+Aromatisse
+Fairy
+Swirlix
+#098
+Swirlix
+Fairy
+Slurpuff
+#099
+Slurpuff
+Fairy
+Eevee
+#100
+Eevee
+Normal
+Vaporeon
+#101
+Vaporeon
+Water
+Jolteon
+#102
+Jolteon
+Electric
+Flareon
+#103
+Flareon
+Fire
+Espeon
+#104
+Espeon
+Psychic
+Umbreon
+#105
+Umbreon
+Dark
+Leafeon
+#106
+Leafeon
+Grass
+Glaceon
+#107
+Glaceon
+Ice
+Sylveon
+#108
+Sylveon
+Fairy
+Buneary
+#109
+Buneary
+Normal
+Lopunny
+#110
+Lopunny
+Normal
+Shuppet
+#111
+Shuppet
+Ghost
+Banette
+#112
+Banette
+Ghost
+Vanillite
+#113
+Vanillite
+Ice
+Vanillish
+#114
+Vanillish
+Ice
+Vanilluxe
+#115
+Vanilluxe
+Ice
+Numel
+#116
+Numel
+Fire · Ground
+Camerupt
+#117
+Camerupt
+Fire · Ground
+Hippopotas
+#118
+Hippopotas
+Ground
+Hippowdon
+#119
+Hippowdon
+Ground
+Drilbur
+#120
+Drilbur
+Ground
+Excadrill
+#121
+Excadrill
+Ground · Steel
+Sandile
+#122
+Sandile
+Ground · Dark
+Krokorok
+#123
+Krokorok
+Ground · Dark
+Krookodile
+#124
+Krookodile
+Ground · Dark
+Machop
+#125
+Machop
+Fighting
+Machoke
+#126
+Machoke
+Fighting
+Machamp
+#127
+Machamp
+Fighting
+Gible
+#128
+Gible
+Dragon · Ground
+Gabite
+#129
+Gabite
+Dragon · Ground
+Garchomp
+#130
+Garchomp
+Dragon · Ground
+Carbink
+#131
+Carbink
+Rock · Fairy
+Sableye
+#132
+Sableye
+Dark · Ghost
+Mawile
+#133
+Mawile
+Steel · Fairy
+Absol
+#134
+Absol
+Dark
+Riolu
+#135
+Riolu
+Fighting
+Lucario
+#136
+Lucario
+Fighting · Steel
+Slowpoke
+#137
+Slowpoke
+Water · Psychic
+Slowbro
+#138
+Slowbro
+Water · Psychic
+Slowking
+#139
+Slowking
+Water · Psychic
+Carvanha
+#140
+Carvanha
+Water · Dark
+Sharpedo
+#141
+Sharpedo
+Water · Dark
+Tynamo
+#142
+Tynamo
+Electric
+Eelektrik
+#143
+Eelektrik
+Electric
+Eelektross
+#144
+Eelektross
+Electric
+Dratini
+#145
+Dratini
+Dragon
+Dragonair
+#146
+Dragonair
+Dragon
+Dragonite
+#147
+Dragonite
+Dragon · Flying
+Bulbasaur
+#148
+Bulbasaur
+Grass · Poison
+Ivysaur
+#149
+Ivysaur
+Grass · Poison
+Venusaur
+#150
+Venusaur
+Grass · Poison
+Charmander
+#151
+Charmander
+Fire
+Charmeleon
+#152
+Charmeleon
+Fire
+Charizard
+#153
+Charizard
+Fire · Flying
+Squirtle
+#154
+Squirtle
+Water
+Wartortle
+#155
+Wartortle
+Water
+Blastoise
+#156
+Blastoise
+Water
+Stunfisk
+#157
+Stunfisk
+Ground · Electric
+Furfrou
+#158
+Furfrou
+Normal
+Inkay
+#159
+Inkay
+Dark · Psychic
+Malamar
+#160
+Malamar
+Dark · Psychic
+Skrelp
+#161
+Skrelp
+Poison · Water
+Dragalge
+#162
+Dragalge
+Poison · Dragon
+Clauncher
+#163
+Clauncher
+Water
+Clawitzer
+#164
+Clawitzer
+Water
+Goomy
+#165
+Goomy
+Dragon
+Sliggoo
+#166
+Sliggoo
+Dragon
+Goodra
+#167
+Goodra
+Dragon
+Delibird
+#168
+Delibird
+Ice · Flying
+Snorunt
+#169
+Snorunt
+Ice
+Glalie
+#170
+Glalie
+Ice
+Froslass
+#171
+Froslass
+Ice · Ghost
+Snover
+#172
+Snover
+Grass · Ice
+Abomasnow
+#173
+Abomasnow
+Grass · Ice
+Bergmite
+#174
+Bergmite
+Ice
+Avalugg
+#175
+Avalugg
+Ice
+Scyther
+#176
+Scyther
+Bug · Flying
+Scizor
+#177
+Scizor
+Bug · Steel
+Pinsir
+#178
+Pinsir
+Bug
+Heracross
+#179
+Heracross
+Bug · Fighting
+Emolga
+#180
+Emolga
+Electric · Flying
+Hawlucha
+#181
+Hawlucha
+Fighting · Flying
+Phantump
+#182
+Phantump
+Ghost · Grass
+Trevenant
+#183
+Trevenant
+Ghost · Grass
+Scraggy
+#184
+Scraggy
+Dark · Fighting
+Scrafty
+#185
+Scrafty
+Dark · Fighting
+Noibat
+#186
+Noibat
+Flying · Dragon
+Noivern
+#187
+Noivern
+Flying · Dragon
+Klefki
+#188
+Klefki
+Steel · Fairy
+Litwick
+#189
+Litwick
+Ghost · Fire
+Lampent
+#190
+Lampent
+Ghost · Fire
+Chandelure
+#191
+Chandelure
+Ghost · Fire
+Aerodactyl
+#192
+Aerodactyl
+Rock · Flying
+Tyrunt
+#193
+Tyrunt
+Rock · Dragon
+Tyrantrum
+#194
+Tyrantrum
+Rock · Dragon
+Amaura
+#195
+Amaura
+Rock · Ice
+Aurorus
+#196
+Aurorus
+Rock · Ice
+Onix
+#197
+Onix
+Rock · Ground
+Steelix
+#198
+Steelix
+Steel · Ground
+Aron
+#199
+Aron
+Steel · Rock
+Lairon
+#200
+Lairon
+Steel · Rock
+Aggron
+#201
+Aggron
+Steel · Rock
+Helioptile
+#202
+Helioptile
+Electric · Normal
+Heliolisk
+#203
+Heliolisk
+Electric · Normal
+Pumpkaboo
+#204
+Pumpkaboo
+Ghost · Grass
+Gourgeist
+#205
+Gourgeist
+Ghost · Grass
+Larvitar
+#206
+Larvitar
+Rock · Ground
+Pupitar
+#207
+Pupitar
+Rock · Ground
+Tyranitar
+#208
+Tyranitar
+Rock · Dark
+Froakie
+#209
+Froakie
+Water
+Frogadier
+#210
+Frogadier
+Water
+Greninja
+#211
+Greninja
+Water · Dark
+Falinks
+#212
+Falinks
+Fighting
+Chespin
+#213
+Chespin
+Grass
+Quilladin
+#214
+Quilladin
+Grass
+Chesnaught
+#215
+Chesnaught
+Grass · Fighting
+Skarmory
+#216
+Skarmory
+Steel · Flying
+Fennekin
+#217
+Fennekin
+Fire
+Braixen
+#218
+Braixen
+Fire
+Delphox
+#219
+Delphox
+Fire · Psychic
+Bagon
+#220
+Bagon
+Dragon
+Shelgon
+#221
+Shelgon
+Dragon
+Salamence
+#222
+Salamence
+Dragon · Flying
+Kangaskhan
+#223
+Kangaskhan
+Normal
+Drampa
+#224
+Drampa
+Normal · Dragon
+Beldum
+#225
+Beldum
+Steel · Psychic
+Metang
+#226
+Metang
+Steel · Psychic
+Metagross
+#227
+Metagross
+Steel · Psychic
+Xerneas
+#228
+Xerneas
+Fairy
+Yveltal
+#229
+Yveltal
+Dark · Flying
+Zygarde
+#230
+Zygarde
+Dragon · Ground
+Diancie
+#231
+Diancie
+Rock · Fairy
+Mewtwo
+#232
+Mewtwo
+Psychic
+Mankey
+#001
+Mankey
+Fighting
+Primeape
+#002
+Primeape
+Fighting
+Annihilape
+#003
+Annihilape
+Fighting · Ghost
+Meowth
+#004
+Meowth
+Normal
+Persian
+#005
+Persian
+Normal
+Perrserker
+#006
+Perrserker
+Steel
+Farfetch'd
+#007
+Farfetch'd
+Normal · Flying
+Sirfetch'd
+#008
+Sirfetch'd
+Fighting
+Cubone
+#009
+Cubone
+Ground
+Marowak
+#010
+Marowak
+Ground
+Porygon
+#011
+Porygon
+Normal
+Porygon2
+#012
+Porygon2
+Normal
+Porygon-Z
+#013
+Porygon-Z
+Normal
+Capsakid
+#014
+Capsakid
+Grass
+Scovillain
+#015
+Scovillain
+Grass · Fire
+Tinkatink
+#016
+Tinkatink
+Fairy · Steel
+Tinkatuff
+#017
+Tinkatuff
+Fairy · Steel
+Tinkaton
+#018
+Tinkaton
+Fairy · Steel
+Cyclizar
+#019
+Cyclizar
+Dragon · Normal
+Glimmet
+#020
+Glimmet
+Rock · Poison
+Glimmora
+#021
+Glimmora
+Rock · Poison
+Rotom
+#022
+Rotom
+Electric · Ghost
+Greavard
+#023
+Greavard
+Ghost
+Houndstone
+#024
+Houndstone
+Ghost
+Sandygast
+#025
+Sandygast
+Ghost · Ground
+Palossand
+#026
+Palossand
+Ghost · Ground
+Kecleon
+#027
+Kecleon
+Normal
+Flamigo
+#028
+Flamigo
+Flying · Fighting
+Cryogonal
+#029
+Cryogonal
+Ice
+Dondozo
+#030
+Dondozo
+Water
+Tatsugiri
+#031
+Tatsugiri
+Dragon · Water
+Frigibax
+#032
+Frigibax
+Dragon · Ice
+Arctibax
+#033
+Arctibax
+Dragon · Ice
+Baxcalibur
+#034
+Baxcalibur
+Dragon · Ice
+Gimmighoul
+#035
+Gimmighoul
+Ghost
+Gholdengo
+#036
+Gholdengo
+Steel · Ghost
+Qwilfish
+#037
+Qwilfish
+Water · Poison
+Overqwil
+#038
+Overqwil
+Dark · Poison
+Treecko
+#039
+Treecko
+Grass
+Grovyle
+#040
+Grovyle
+Grass
+Sceptile
+#041
+Sceptile
+Grass
+Torchic
+#042
+Torchic
+Fire
+Combusken
+#043
+Combusken
+Fire · Fighting
+Blaziken
+#044
+Blaziken
+Fire · Fighting
+Mudkip
+#045
+Mudkip
+Water
+Marshtomp
+#046
+Marshtomp
+Water · Ground
+Swampert
+#047
+Swampert
+Water · Ground
+Feebas
+#048
+Feebas
+Water
+Milotic
+#049
+Milotic
+Water
+Chingling
+#050
+Chingling
+Psychic
+Chimecho
+#051
+Chimecho
+Psychic
+Indeedee
+#052
+Indeedee
+Psychic · Normal
+Purrloin
+#053
+Purrloin
+Dark
+Liepard
+#054
+Liepard
+Dark
+Munna
+#055
+Munna
+Psychic
+Musharna
+#056
+Musharna
+Psychic
+Throh
+#057
+Throh
+Fighting
+Sawk
+#058
+Sawk
+Fighting
+Yamask
+#059
+Yamask
+Ghost
+Cofagrigus
+#060
+Cofagrigus
+Ghost
+Runerigus
+#061
+Runerigus
+Ground · Ghost
+Wimpod
+#062
+Wimpod
+Bug · Water
+Golisopod
+#063
+Golisopod
+Bug · Water
+Nickit
+#064
+Nickit
+Dark
+Thievul
+#065
+Thievul
+Dark
+Clobbopus
+#066
+Clobbopus
+Fighting
+Grapploct
+#067
+Grapploct
+Fighting
+Mimikyu
+#068
+Mimikyu
+Ghost · Fairy
+Kleavor
+#069
+Kleavor
+Bug · Rock
+Morpeko
+#070
+Morpeko
+Electric · Dark
+Golett
+#071
+Golett
+Ground · Ghost
+Golurk
+#072
+Golurk
+Ground · Ghost
+Rookidee
+#073
+Rookidee
+Flying
+Corvisquire
+#074
+Corvisquire
+Flying
+Corviknight
+#075
+Corviknight
+Flying · Steel
+Igglybuff
+#076
+Igglybuff
+Normal · Fairy
+Jigglypuff
+#077
+Jigglypuff
+Normal · Fairy
+Wigglytuff
+#078
+Wigglytuff
+Normal · Fairy
+Fidough
+#079
+Fidough
+Fairy
+Dachsbun
+#080
+Dachsbun
+Fairy
+Starly
+#081
+Starly
+Normal · Flying
+Staravia
+#082
+Staravia
+Normal · Flying
+Staraptor
+#083
+Staraptor
+Normal · Flying
+Spoink
+#084
+Spoink
+Psychic
+Grumpig
+#085
+Grumpig
+Psychic
+Squawkabilly
+#086
+Squawkabilly
+Normal · Flying
+Crabrawler
+#087
+Crabrawler
+Fighting
+Crabominable
+#088
+Crabominable
+Fighting · Ice
+Nacli
+#089
+Nacli
+Rock
+Naclstack
+#090
+Naclstack
+Rock
+Garganacl
+#091
+Garganacl
+Rock
+Gulpin
+#092
+Gulpin
+Poison
+Swalot
+#093
+Swalot
+Poison
+Zubat
+#094
+Zubat
+Poison · Flying
+Golbat
+#095
+Golbat
+Poison · Flying
+Crobat
+#096
+Crobat
+Poison · Flying
+Charcadet
+#097
+Charcadet
+Fire
+Armarouge
+#098
+Armarouge
+Fire · Psychic
+Ceruledge
+#099
+Ceruledge
+Fire · Ghost
+Maschiff
+#100
+Maschiff
+Dark
+Mabosstiff
+#101
+Mabosstiff
+Dark
+Toxel
+#102
+Toxel
+Electric · Poison
+Toxtricity
+#103
+Toxtricity
+Electric · Poison
+Shroodle
+#104
+Shroodle
+Poison · Normal
+Grafaiai
+#105
+Grafaiai
+Poison · Normal
+Zangoose
+#106
+Zangoose
+Normal
+Seviper
+#107
+Seviper
+Poison
+Mime Jr.
+#108
+Mime Jr.
+Psychic · Fairy
+Mr. Mime
+#109
+Mr. Mime
+Psychic · Fairy
+Mr. Rime
+#110
+Mr. Rime
+Ice · Psychic
+Foongus
+#111
+Foongus
+Grass · Poison
+Amoonguss
+#112
+Amoonguss
+Grass · Poison
+Heatran
+#113
+Heatran
+Fire · Steel
+Volcanion
+#114
+Volcanion
+Fire · Water
+Cobalion
+#115
+Cobalion
+Steel · Fighting
+Terrakion
+#116
+Terrakion
+Rock · Fighting
+Virizion
+#117
+Virizion
+Grass · Fighting
+Keldeo
+#118
+Keldeo
+Water · Fighting
+Meloetta
+#119
+Meloetta
+Normal · Psychic
+Genesect
+#120
+Genesect
+Bug · Steel
+Hoopa
+#121
+Hoopa
+Psychic · Ghost
+Marshadow
+#122
+Marshadow
+Fighting · Ghost
+Meltan
+#123
+Meltan
+Steel
+Melmetal
+#124
+Melmetal
+Steel
+Darkrai
+#125
+Darkrai
+Dark
+Latias
+#126
+Latias
+Dragon · Psychic
+Latios
+#127
+Latios
+Dragon · Psychic
+Kyogre
+#128
+Kyogre
+Water
+Groudon
+#129
+Groudon
+Ground
+Rayquaza
+#130
+Rayquaza
+Dragon · Flying
+Magearna
+#131
+Magearna
+Steel · Fairy
+Zeraora
+#132
+Zeraora
+Electric

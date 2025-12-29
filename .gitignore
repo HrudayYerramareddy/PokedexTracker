@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+
+# Build output
+/out
+/target
+
+# Node / tooling (if any)
+/node_modules
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# TEMP data (if you ever add it)
+/data/tmp
