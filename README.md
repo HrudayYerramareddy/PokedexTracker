@@ -41,8 +41,6 @@ The PokédexTracker website should now appear.
 
 **How to use the site**
 
-**Note refreshing tab and reopening tab currently works but after server ends progress ends: working on a fix **
-
 Use the tabs at the top to switch between games.
 Use the Normal and Shiny buttons to switch tracking modes.
 Click a Pokémon to mark it as caught.
@@ -54,3 +52,4 @@ Stopping the server
 When you’re done using the site, go back to the terminal and press:
 
 Ctrl + C
+If you have selected anything some data will be modified into a json file (ignore this new file changing it could cause unwanted behavior)
